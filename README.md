@@ -1,0 +1,1 @@
+Ejemplo de conexión entre el módulo de Concatenate [MNT2](https://github.com/fsguiglia/MNT2) y el external de pure data [the_grainer~](https://github.com/odiliscia/the_grainer_PureData_gh). Para Max y Max for Live ver [ConcatenateM4L](https://github.com/fsguiglia/concatenate).
